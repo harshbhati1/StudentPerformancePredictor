@@ -85,6 +85,4 @@ Special thanks to Kaggle for providing the [Student Performance Dataset](https:/
 To install all the dependencies, run:
 
 ```bash
-pip install -r requirements.txt
-
 
