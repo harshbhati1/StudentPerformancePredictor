@@ -51,7 +51,39 @@ You’ll need the following Python libraries to run this project:
 - `seaborn`
 - `scikit-learn`
 
+
+## 🏃‍♀️ How to Run
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/harshbhati1/StudentPerformancePredictor.git
+    ```
+
+2. **Navigate to the project folder:**
+    ```bash
+    cd StudentPerformancePredictor
+    ```
+
+3. **Run the notebook:**
+    Open the notebook using Jupyter:
+    ```bash
+    jupyter notebook Notebook.ipynb
+    ```
+
+## 📊 Dataset
+
+Download the dataset from Kaggle: [Student Performance Dataset](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression/code?datasetId=3462333)  
+Place the dataset file (`Student_Performance.csv`) in the project folder.
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##🙌 Acknowledgments
+Special thanks to Kaggle for providing the Student Performance Dataset.
+
 To install all the dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+
+
