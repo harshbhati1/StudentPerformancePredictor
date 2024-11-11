@@ -79,7 +79,7 @@ Place the dataset file (`Student_Performance.csv`) in the project folder.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 Special thanks to Kaggle for providing the [Student Performance Dataset](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression/code?datasetId=3462333)
 To install all the dependencies, run:
