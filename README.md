@@ -75,9 +75,6 @@ You’ll need the following Python libraries to run this project:
 Download the dataset from Kaggle: [Student Performance Dataset](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression/code?datasetId=3462333)  
 Place the dataset file (`Student_Performance.csv`) in the project folder.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙌 Acknowledgments
 
